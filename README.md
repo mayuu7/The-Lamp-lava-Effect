@@ -1,6 +1,10 @@
 # The-Lamp-lava-Effect
 It can be used to create lamp lava effect on the background of the page.
 
+See DEMO here:
+http://mayankjain.tk/lampEffect.html
+
+
 
 Just copy the canvas element and tweak some CSS.
 
