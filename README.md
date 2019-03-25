@@ -4,8 +4,7 @@ Key Features
 --------------------
 It can be used to create lamp lava effect on the background of the page.
 
-See DEMO here:
-http://mayankjain.tk/lampEffect.html
+
 
 
 How to Use
